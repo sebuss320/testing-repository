@@ -1,3 +1,3 @@
 # testing-repository
 
-czest to jest test repozytorium
+czesc to jest test repozytorium
